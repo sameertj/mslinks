@@ -4,7 +4,7 @@
   <groupId>com.github.sameertj</groupId>
   <artifactId>mslinks</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>y</version>
   <name>lib_edi_msLinks</name>
 
   <!--<parent>-->
@@ -17,6 +17,7 @@
       <connection>scm:git:git://github.com/sameertj/mslinks.git</connection>
       <developerConnection>scm:git:git@github.com:sameertj/mslinks.git</developerConnection>
       <url>https://github.com/sameertj/mslinks.git</url>
+    <tag>mslinks-y</tag>
   </scm>
 
   <distributionManagement>
