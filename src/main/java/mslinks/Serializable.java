@@ -18,6 +18,6 @@ import java.io.IOException;
 
 import io.ByteWriter;
 
-public interface Serializable {
+public interface Serializable extends java.io.Serializable {
 	void serialize(ByteWriter bw) throws IOException;
 }
